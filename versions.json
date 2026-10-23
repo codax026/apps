@@ -1,0 +1,16 @@
+{
+  "launcher":   { "versionCode": 2, "versionName": "1.0.1", "minVersionCode": 1, "url": "https://t.me/codax026/21" },
+  "keyboard":   { "versionCode": 2, "versionName": "1.0.1", "minVersionCode": 1, "url": "https://t.me/codax026/22" },
+  "music":      { "versionCode": 2, "versionName": "1.0.1", "minVersionCode": 1, "url": "https://t.me/codax026/23" },
+  "downloader": { "versionCode": 2, "versionName": "1.0.1", "minVersionCode": 1, "url": "https://t.me/codax026/24" },
+  "converter":  { "versionCode": 2, "versionName": "1.0.1", "minVersionCode": 1, "url": "https://t.me/codax026/25" },
+  "painter":    { "versionCode": 2, "versionName": "1.0.1", "minVersionCode": 1, "url": "https://t.me/codax026/26" },
+  "equations":  { "versionCode": 2, "versionName": "1.0.1", "minVersionCode": 1, "url": "https://t.me/codax026/27" },
+  "mishkat":    { "versionCode": 2, "versionName": "1.0.1", "minVersionCode": 1, "url": "https://t.me/codax026/28" },
+  "cycle":      { "versionCode": 2, "versionName": "1.0.1", "minVersionCode": 1, "url": "https://t.me/codax026/29" },
+  "recorder":   { "versionCode": 2, "versionName": "1.0.1", "minVersionCode": 1, "url": "https://t.me/codax026/30" },
+  "scanner":    { "versionCode": 2, "versionName": "1.0.1", "minVersionCode": 1, "url": "https://t.me/codax026/31" },
+  "reader":     { "versionCode": 2, "versionName": "1.0.1", "minVersionCode": 1, "url": "https://t.me/codax026/32" },
+  "docscanner": { "versionCode": 2, "versionName": "1.0.1", "minVersionCode": 1, "url": "https://t.me/codax026/34" },
+  "printer":    { "versionCode": 2, "versionName": "1.0.1", "minVersionCode": 1, "url": "https://t.me/codax026/33" }
+}
